@@ -1,0 +1,89 @@
+.linha{
+    content: '';
+    clear: both;
+    display: flex;
+    align-items: center;
+}
+
+.coluna-4{
+    width: 33.33%;
+}
+
+[class*="coluna-"]{
+    /float: left/
+    padding: 15px;
+}
+
+#poltronas2{
+    width: 200px;
+    padding: 1px;
+    display: none;
+    margin-top: 1rem;
+}
+
+#pol1{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#pol2{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#pol3{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#pol4{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#pol5{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#poltronas1{
+    width: 200px;
+    padding: 1px;
+    display: none;
+    margin-top: 1rem;
+}
+
+#polt1{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#polt2{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#polt3{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#polt4{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
+
+#polt5{
+    border: solid green;
+    background-color: green;
+    margin: 1px;
+}
